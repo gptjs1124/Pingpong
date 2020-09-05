@@ -14,18 +14,18 @@
 ```
 # 구현 기능
 ```
-회원 
+##### 회원 
 - KAKAO Login API를 이용한 SNS 로그인 
 - 이메일 전송 
 - sojaeji.js를 이용한 위치 선택 
 - 아이디 찾기, 비밀번호 찾기 
 - Scheduler를 이용한 나이 증가 
 
-마이 페이지 
+##### 마이 페이지 
 - 내 정보 출력, 수정 
 - AOP로 이용 제한(로그인 안 한 경우 로그인 페이지 이동) 
 
-소식통 게시판 
+##### 뉴스 게시판 
 - 게시글 등록, 수정, 삭제, 출력 
 - Summernote API를 이용한 게시글 등록 
 - Datepicker를 이용한 날짜 지정 
@@ -45,7 +45,7 @@
 
 # 구현 기능
 ```
-#### - Member & Mypage ####
+##### Member & Mypage
 https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/controller/MemberController.java
 https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dao/FileDAO.java
 https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dao/MemberDAO.java
@@ -56,7 +56,7 @@ https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dto/
 https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dto/LanguageDTO.java
 https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dto/LocationDTO.java
 
-#### - News ####
+##### - News
 https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/controller/FileController.java
 https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dao/FileDAO.java
 https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dto/FileDTO.java
