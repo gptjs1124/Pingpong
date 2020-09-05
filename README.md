@@ -45,7 +45,7 @@
 
 # 구현 기능
 ```
-##### Member & Mypage
+- Member & Mypage
 https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/controller/MemberController.java
 https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dao/FileDAO.java
 https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dao/MemberDAO.java
@@ -56,7 +56,7 @@ https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dto/
 https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dto/LanguageDTO.java
 https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dto/LocationDTO.java
 
-##### - News
+- News
 https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/controller/FileController.java
 https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dao/FileDAO.java
 https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dto/FileDTO.java
