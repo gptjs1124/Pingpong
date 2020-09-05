@@ -35,11 +35,31 @@
 - AOP를 이용한 게시글 등록 제한(로그인 안 한 경우 로그인 페이지 이동) 
 ```
 # 클래스다이어그램
-- Member / Mypage / New part 담당
+- Member & Mypage / News part 담당
 - https://github.com/gytjq456/pingpong/issues/165
 
 
 # 유스케이스다이어그램
-- Member / Mypage / New part 담당
+- Member & Mypage / News part 담당
 - https://github.com/gytjq456/pingpong/issues/166
 
+# 구현 기능
+```
+#### - Member & Mypage ####
+https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/controller/MemberController.java
+https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dao/FileDAO.java
+https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dao/MemberDAO.java
+https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dto/MemberDTO.java
+https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dto/FileDTO.java
+https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dto/HobbyDTO.java
+https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dto/BankDTO.java
+https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dto/LanguageDTO.java
+https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dto/LocationDTO.java
+
+#### - News ####
+https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/controller/FileController.java
+https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dao/FileDAO.java
+https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dto/FileDTO.java
+https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dto/FilesDTO.java
+https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dto/NewsDTO.java
+```
