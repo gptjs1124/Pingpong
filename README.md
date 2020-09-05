@@ -45,7 +45,7 @@
 
 # 구현 기능
 ```
-#### - Member & Mypage ####
+####- Member & Mypage####
 https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/controller/MemberController.java
 https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dao/FileDAO.java
 https://github.com/gptjs1124/pingpong/blob/master/src/main/java/kh/pingpong/dao/MemberDAO.java
