@@ -35,11 +35,11 @@
 - AOP를 이용한 게시글 등록 제한(로그인 안 한 경우 로그인 페이지 이동) 
 ```
 # 클래스다이어그램
-Member / Mypage / New
+Member / Mypage / New part 담당
 https://github.com/gytjq456/pingpong/issues/165
 
 
 # 유스케이스다이어그램
-Member / Mypage / New
+Member / Mypage / New part 담당
 https://github.com/gytjq456/pingpong/issues/166
 
