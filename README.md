@@ -35,5 +35,11 @@
 - AOP를 이용한 게시글 등록 제한(로그인 안 한 경우 로그인 페이지 이동) 
 ```
 # 클래스다이어그램
-#### # Member ####
-<img width="957" alt="클래스다이어그램_멤버" src="https://user-images.githubusercontent.com/65377057/92306883-7d6f4600-efcd-11ea-9603-98717e4a2be1.png">
+Member / Mypage / New
+https://github.com/gytjq456/pingpong/issues/165
+
+
+# 유스케이스다이어그램
+Member / Mypage / New
+https://github.com/gytjq456/pingpong/issues/166
+
